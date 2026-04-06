@@ -19,6 +19,7 @@ How has snow cover extent and snow season length changed across the United State
   https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD10A1?hl=zh-cn
 
 - **SRTM 90m DEM** — elevation data for elevation-band analysis
+
   https://srtm.csi.cgiar.org
 
 - **ERA5-Land Hourly Reanalysis** — 2m temperature and dewpoint temperature for wet-bulb temperature calculation
