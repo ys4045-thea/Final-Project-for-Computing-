@@ -1,4 +1,4 @@
-# Project Prosal
+# Project Proposal
 ## Yue Shi ys4045
 
 The project aims to examine and visualize the trend in snow cover and their implications of the ski season length across the United States for the period of 2000-2023.
